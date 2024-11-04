@@ -7,9 +7,9 @@ Software developer focused on the web
 Passionate developer and recent graduate dedicated to crafting pixel-perfect designs and seamless user experiences.
 
 * 🌍  I'm based in Zagreb, Croatia
-* 🖥️  See my portfolio at [My Portfolio](http://zandoes.dev)
+* 🖥️  See my portfolio at [My Portfolio](https://zandoes.dev)
 * ✉️  You can contact me at [a1zan.zlender@gmail.com](mailto:a1zan.zlender@gmail.com)
-* 🚀  I'm currently working on [Tasky](http://(s)://tasky.study)
+* 🚀  I'm currently working on [Tasky](https://tasky.study)
 * 🧠  I'm learning Go & React Native
 * 🤝  I'm open to collaborating on Interesting projects
 
