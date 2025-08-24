@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Žan Žlender
+iHi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Žan Žlender
 ===================================================================================================================================
 
 Software developer focused on the web 
@@ -10,7 +10,7 @@ Passionate developer and recent graduate dedicated to crafting pixel-perfect des
 * 🖥️  See my portfolio at [My Portfolio](https://zandoes.dev)
 * ✉️  You can contact me at [a1zan.zlender@gmail.com](mailto:a1zan.zlender@gmail.com)
 * 🚀  I'm currently working at [Hivetech](https://hivetech.hr)
-* 🧠  I'm learning Go & React Native
+* 🧠  I'm learning Go & React Native & Angular
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
