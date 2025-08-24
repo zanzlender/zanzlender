@@ -9,7 +9,7 @@ Passionate developer and recent graduate dedicated to crafting pixel-perfect des
 * 🌍  I'm based in Zagreb, Croatia
 * 🖥️  See my portfolio at [My Portfolio](https://zandoes.dev)
 * ✉️  You can contact me at [a1zan.zlender@gmail.com](mailto:a1zan.zlender@gmail.com)
-* 🚀  I'm currently working on [Tasky](https://tasky.study)
+* 🚀  I'm currently working at [Hivetech](https://hivetech.hr)
 * 🧠  I'm learning Go & React Native
 * 🤝  I'm open to collaborating on Interesting projects
 
